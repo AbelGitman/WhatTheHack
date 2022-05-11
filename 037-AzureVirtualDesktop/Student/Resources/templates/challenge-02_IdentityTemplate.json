@@ -107,7 +107,7 @@
                         "caching": "None",
                         "createOption": "FromImage",
                         "managedDisk": {
-                            "storageAccountType": "Standard_LRS"
+                            "storageAccountType": "Standard_D2ads_v5"
                         }
 
                     }
